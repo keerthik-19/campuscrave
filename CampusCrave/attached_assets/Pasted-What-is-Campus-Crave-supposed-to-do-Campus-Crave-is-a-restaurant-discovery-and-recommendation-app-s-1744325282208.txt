@@ -1,0 +1,63 @@
+What is Campus Crave supposed to do?
+Campus Crave is a restaurant discovery and recommendation app specifically designed for college students.
+It's not a food delivery app — it's for helping students quickly and easily find places to eat near their campus, based on:
+
+Dietary preferences (like vegan, halal, gluten-free, etc.)
+
+Budget (cheap eats, student-friendly options)
+
+Distance from current location (campus-focused)
+
+Personal recommendations based on user behavior
+
+Students can log in to the app, search or browse nearby places, and save their favorite restaurants for easy access later. The app is aimed at saving time, especially for students with busy schedules, and giving them smart, personalized recommendations. It's like a smarter Yelp, but focused for students.
+
+Main Features I want to include:
+
+Login and Registration System
+
+Students from any campus can create an account and log in securely.
+
+Restaurant Search
+
+Search bar + filter tags (dietary restrictions, budget, cuisine type).
+
+Save Favorite Restaurants
+
+Users can save restaurants to their profile for quick access later.
+
+Location-based Recommendations
+
+App detects user location and shows nearby places.
+
+Restaurant Details Page
+
+Menu, ratings, photos, address, distance, and tags (like vegan, gluten-free).
+
+Navigation to Restaurant
+
+Directions to the restaurant from the student’s current location.
+
+User Reviews & Ratings
+
+Students can leave reviews and see what others have said.
+
+Personalized Recommendations
+
+Based on past searches, saved restaurants, and preferences.
+
+Multi-Campus Ready
+
+Not limited to NYIT! Any student from any campus can use it to find restaurants near them.
+
+Specific design preferences:
+
+Clean and simple UI — easy for students to use on the go.
+
+Student-friendly colors — bright but not too flashy, with modern design.
+
+Focus on functionality first (get things working cleanly before fancy animations).
+
+Easy navigation — clear buttons for home, search, saved restaurants, and profile.
+
+Prioritize speed and simplicity — we want students to quickly open the app, search, and decide fast.
